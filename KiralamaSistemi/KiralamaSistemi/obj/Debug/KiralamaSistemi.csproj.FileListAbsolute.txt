@@ -1,0 +1,7 @@
+C:\Users\gulba\OneDrive\Masaüstü\C#\KiralamaSistemi\KiralamaSistemi\bin\Debug\KiralamaSistemi.exe.config
+C:\Users\gulba\OneDrive\Masaüstü\C#\KiralamaSistemi\KiralamaSistemi\bin\Debug\KiralamaSistemi.exe
+C:\Users\gulba\OneDrive\Masaüstü\C#\KiralamaSistemi\KiralamaSistemi\bin\Debug\KiralamaSistemi.pdb
+C:\Users\gulba\OneDrive\Masaüstü\C#\KiralamaSistemi\KiralamaSistemi\obj\Debug\KiralamaSistemi.csproj.AssemblyReference.cache
+C:\Users\gulba\OneDrive\Masaüstü\C#\KiralamaSistemi\KiralamaSistemi\obj\Debug\KiralamaSistemi.csproj.CoreCompileInputs.cache
+C:\Users\gulba\OneDrive\Masaüstü\C#\KiralamaSistemi\KiralamaSistemi\obj\Debug\KiralamaSistemi.exe
+C:\Users\gulba\OneDrive\Masaüstü\C#\KiralamaSistemi\KiralamaSistemi\obj\Debug\KiralamaSistemi.pdb
