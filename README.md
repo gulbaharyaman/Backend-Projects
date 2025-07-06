@@ -1,2 +1,2 @@
 # Backend-Projects
-A collection of backend development projects and practice work.
+This repository includes backend development projects and practice work built with C# and ASP.NET Core.
