@@ -1,0 +1,7 @@
+C:\Users\gulba\OneDrive\Masaüstü\C#\BankaSistemi\BankaSistemi\bin\Debug\BankaSistemi.exe.config
+C:\Users\gulba\OneDrive\Masaüstü\C#\BankaSistemi\BankaSistemi\bin\Debug\BankaSistemi.exe
+C:\Users\gulba\OneDrive\Masaüstü\C#\BankaSistemi\BankaSistemi\bin\Debug\BankaSistemi.pdb
+C:\Users\gulba\OneDrive\Masaüstü\C#\BankaSistemi\BankaSistemi\obj\Debug\BankaSistemi.csproj.AssemblyReference.cache
+C:\Users\gulba\OneDrive\Masaüstü\C#\BankaSistemi\BankaSistemi\obj\Debug\BankaSistemi.csproj.CoreCompileInputs.cache
+C:\Users\gulba\OneDrive\Masaüstü\C#\BankaSistemi\BankaSistemi\obj\Debug\BankaSistemi.exe
+C:\Users\gulba\OneDrive\Masaüstü\C#\BankaSistemi\BankaSistemi\obj\Debug\BankaSistemi.pdb
